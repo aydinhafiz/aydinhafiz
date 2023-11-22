@@ -1,11 +1,11 @@
-[![MasterHead](https://camo.githubusercontent.com/48094d46aa5bd2fae06330eed4873a0bb55f8432ef37ba1f52fba707c39c77a9/687474703a2f2f746d6f6b6b352e636f2e7a612f696d616765732f576562253230446576656c6f706d656e742e676966)]
+![MasterHead](https://camo.githubusercontent.com/48094d46aa5bd2fae06330eed4873a0bb55f8432ef37ba1f52fba707c39c77a9/687474703a2f2f746d6f6b6b352e636f2e7a612f696d616765732f576562253230446576656c6f706d656e742e676966)
 <h1 align="center">Hi 👋, I'm Aydin Hafiz</h1>
 <h3 align="center">passionate about coding and collaboration</h3>
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.wNGxHlTCsH9zU90WDouoDQHaFj?rs=1&pid=ImgDetMain">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aydinhafiz&label=Profile%20views&color=0e75b6&style=flat" alt="aydinhafiz" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Node.JS**
 
