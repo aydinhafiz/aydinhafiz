@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/48094d46aa5bd2fae06330eed4873a0bb55f8432ef37ba1f52fba707c39c77a9/687474703a2f2f746d6f6b6b352e636f2e7a612f696d616765732f576562253230446576656c6f706d656e742e676966)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1M71Sd2gcpTLj6JcYPyJJN&ust=1704636899174000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiZ8Lr5yIMDFQAAAAAdAAAAABAs)
 <h1 align="center">Hi 👋, I'm Aydin Hafiz</h1>
 <h3 align="center">passionate about coding and collaboration</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
