@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Aydin Hafiz</h1>
 <h3 align="center">passionate about coding and collaboration</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aydinhafiz&label=Profile%20views&color=0e75b6&style=flat" alt="aydinhafiz" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Cypress**
 
-- 💬 Ask me about **Javascript,React and Node.js :) **
+- 💬 Ask me about Javascript,React and Node.js :) 
 
 - 📫 How to reach me **aydinhafiz648@gmail.com**
 
