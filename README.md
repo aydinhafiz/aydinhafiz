@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Node.JS**
+- 🌱 I’m currently learning **Cypress**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Javascript,React and Node.js :) **
 
-- 📫 How to reach me **hafizaydin01@gmail.com**
+- 📫 How to reach me **aydinhafiz648@gmail.com**
 
 - ⚡ Fun fact **I'm disciplined**
 
