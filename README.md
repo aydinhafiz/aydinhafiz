@@ -27,7 +27,7 @@
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aydinhafiz&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=500) 
 
-[![Aydin's GitHub Streak](https://streak-stats.demolab.com?user=aydinhafiz&theme=transparent&card_width=500)](https://git.io/streak-stats) ![Aydin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aydinhafiz&show_icons=true&theme=transparent&card_width=500)
+[![](https://streak-stats.demolab.com?user=aydinhafiz&theme=transparent&card_width=500)](https://git.io/streak-stats) ![Aydin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aydinhafiz&show_icons=true&theme=transparent&card_width=500)
 
 </div>
 
