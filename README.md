@@ -6,7 +6,6 @@
 <h3>I'm a versatile developer with a passion for creating seamless user experiences</h3>
 
 
-
 <h3 align="left"> 💻| Languages and Tools:</h3>
 <p align="left"></p>
 
