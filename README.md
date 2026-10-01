@@ -4,7 +4,6 @@
 <img align='right' alt="Coder GIF"  width=400 src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
 
 
-
 <h3>I'm a versatile developer with a passion for creating seamless user experiences</h3>
 
 <h3 align="left"> 💻| Languages and Tools:</h3>
